@@ -1,3 +1,13 @@
-gitbash
-git
-github
+comandos utilizados 
+
+1.git clone https://github.com/marcio28costa/dio-desafio-github-primeiro-repositorio.git
+# alteracao do projeto na maquina.
+
+2.git add . 
+# adicionando arquivos alterados
+
+3.git commit -m "inclusao das anotacoes do curso"
+# commit das alteracoes
+
+4.git push origin
+# sincronizando com o repositorio origem
